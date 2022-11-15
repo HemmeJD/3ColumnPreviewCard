@@ -87,6 +87,7 @@ body {
     outline: none;
     border-radius: 2rem;
     transition: 0.3s;
+    margin-top: 3rem;
 }
 
 .sedans .btn {
