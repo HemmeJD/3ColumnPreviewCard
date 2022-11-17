@@ -52,7 +52,7 @@ body {
     border-radius: 0 0 1rem 1rem;
 }
 
-.card h1 {
+.card h2 {
     font-family: 'Big Shoulders Display', sans-serif;
     color: hsl(0, 0%, 95%);
     font-weight:700;
